@@ -1,17 +1,15 @@
-# timetable
 
-gdsc timetable
+# Time Table GDSC
 
-## Getting Started
+Time Table app for Chitkara University.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Screenshot](https://user-images.githubusercontent.com/97474782/230577843-09300fdd-278e-45bf-b4d7-add67d7d4d63.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# timeTable-app
+![App ss](https://user-images.githubusercontent.com/97474782/230577852-c1c471d3-f3fd-4eb7-8abf-94548b277044.png)
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravneetsingh061)
+
